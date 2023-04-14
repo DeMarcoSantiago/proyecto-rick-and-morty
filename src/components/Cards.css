@@ -1,0 +1,5 @@
+.cards_container{
+    display: flex;
+    padding: 15px;
+    border: 8px solid rgba(241, 222, 235, 0.345)
+}
